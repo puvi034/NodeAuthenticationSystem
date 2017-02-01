@@ -1,16 +1,16 @@
 # NodeAuthenticationSystem
 Node/Express Authentication System built with PassportJS and MongoDB.
 
-Before running the project, make you have the mongo db in your system and it's running
- Please install the mongo db from the below given site
+Before running the project, make sure you have the mongo db in your system and it's running.
+ Please install the mongo db from the below site
  https://www.mongodb.com/download-center#community
  
 
  Steps to install the project.
  
  1. Clone the code from the repository
- 2. Once cloned, go into cloned folder and type "npm install"
- 3. This starts your node server
+ 2. Once cloned, go into the cloned folder and type "npm install"
+ 3. Then type "npm start" command to start the server.
  
  
  Description:
